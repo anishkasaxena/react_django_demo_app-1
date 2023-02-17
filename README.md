@@ -1,4 +1,4 @@
-# react_django_demo_app
+# react_django_demo_app for jenkins pipeline deployment
 
 A demo app for React and Django Deployment
 
